@@ -1,6 +1,7 @@
 # Hacker_Rank_C++
 This Repository contains the solutions to the hacker rank C++ practice
-Input and Output
+
+**1. Input and Output**
 
 Challenge to create three variables and make a sum of it
 
