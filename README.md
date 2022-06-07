@@ -1,4 +1,4 @@
-# Hacker_Rank_C++
+# HackerRank_C++
 This Repository contains the solutions to the hacker rank C++ practice
 
 **1. Input and Output**
